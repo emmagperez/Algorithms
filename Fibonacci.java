@@ -1,5 +1,6 @@
 /**
  * Created by emmaperez on 2/13/18.
+ * simple fib function
  */
 public class Fibonacci {
 
